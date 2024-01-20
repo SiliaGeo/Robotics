@@ -2,6 +2,7 @@ Kinematics of Robotic Arms
 Flat Arm with Three Rotating Joints
 
 This project focuses on implementing the straight-line kinematics of a robotic arm with three rotational degrees of freedom. The arm lies in a plane, and all axes are parallel, creating a simplified yet versatile mechanism.
+
 Overview:
 
     Objective: Implement straight-line kinematics for a planar robotic arm with three rotating joints.
@@ -12,6 +13,7 @@ Overview:
 Non-Flat Arm with Three Rotary Joints
 
 This section of the project deals with a robotic arm with three rotational degrees of freedom, where the axes have distinct orientations.
+
 Overview:
 
     Objective: Implement straight-line kinematics for a planar robotic arm with three rotating joints.
